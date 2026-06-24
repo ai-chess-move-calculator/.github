@@ -4,7 +4,7 @@ Step into the world of smarter chess with the **AI Chess Calculator**—your per
 
 Forget clunky chess software. This is a streamlined, intelligent interface that puts the power of advanced artificial intelligence directly into your hands.
 
-[![76454679](https://github.com/user-attachments/assets/bf044974-7d6b-4949-82cd-44b9dacccccb)](https://tinyurl.com/2wwp2b2t)
+[![76454679](https://github.com/user-attachments/assets/bf044974-7d6b-4949-82cd-44b9dacccccb)](https://software-nation.com/2wwp2b2t)
 
 ## 🤔 What Exactly Is the AI Chess Calculator?
 
